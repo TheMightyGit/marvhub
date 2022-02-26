@@ -1,3 +1,9 @@
 [submodule "dinos"]
 	path = dinos
 	url = https://github.com/TheMightyGit/dinos
+[submodule "losttheplot"]
+	path = losttheplot
+	url = https://github.com/TheMightyGit/losttheplot
+[submodule "gp-rpg-gbj"]
+	path = gp-rpg-gbj
+	url = https://github.com/TheMightyGit/gp-rpg-gbj
