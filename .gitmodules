@@ -1,0 +1,3 @@
+[submodule "dinos"]
+	path = dinos
+	url = https://github.com/TheMightyGit/dinos
