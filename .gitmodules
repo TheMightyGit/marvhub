@@ -7,3 +7,6 @@
 [submodule "gp-rpg-gbj"]
 	path = gp-rpg-gbj
 	url = https://github.com/TheMightyGit/gp-rpg-gbj
+[submodule "slideshow"]
+	path = slideshow
+	url = https://github.com/TheMightyGit/slideshow.git
