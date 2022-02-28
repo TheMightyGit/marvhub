@@ -16,3 +16,6 @@
 [submodule "marvotron"]
 	path = marvotron
 	url = https://github.com/TheMightyGit/marvotron
+[submodule "stresstest"]
+	path = stresstest
+	url = https://github.com/TheMightyGit/stresstest
