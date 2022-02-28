@@ -13,3 +13,6 @@
 [submodule "mrmotext"]
 	path = mrmotext
 	url = https://github.com/TheMightyGit/mrmotext.git
+[submodule "marvotron"]
+	path = marvotron
+	url = https://github.com/TheMightyGit/marvotron
