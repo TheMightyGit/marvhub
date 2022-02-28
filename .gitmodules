@@ -10,3 +10,6 @@
 [submodule "slideshow"]
 	path = slideshow
 	url = https://github.com/TheMightyGit/slideshow.git
+[submodule "mrmotext"]
+	path = mrmotext
+	url = https://github.com/TheMightyGit/mrmotext.git
