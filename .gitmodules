@@ -19,3 +19,6 @@
 [submodule "stresstest"]
 	path = stresstest
 	url = https://github.com/TheMightyGit/stresstest
+[submodule "wordworlds"]
+	path = wordworlds
+	url = https://github.com/TheMightyGit/wordworlds
